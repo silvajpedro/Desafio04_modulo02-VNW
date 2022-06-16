@@ -29,7 +29,7 @@ function filmAndMusic(filme, musica) {
 filmAndMusic("Lord of the Rings", "Paranoid")
 
 //5 - crie uma função que retorne o triplo do número recebido no parâmetro da função
-function tripleNumber(numero){
-    console.log(numero*3)
+function tripleNumber(numero) {
+    return console.log(numero * 3)
 }
 tripleNumber(4)
